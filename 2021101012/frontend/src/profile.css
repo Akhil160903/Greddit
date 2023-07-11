@@ -1,0 +1,31 @@
+body{
+    background-color:#282d35;
+    border-radius: 10px;
+}
+.card{
+  width: 1000px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.stats{
+      background: #f2f5f8 !important;
+    color: #000 !important;
+}
+.test{
+  font-size:16px;
+  color: #000000;
+}
+.number1{
+  font-weight:500;
+}
+.number2{
+  font-weight:500;
+}
+.mtest{
+    font-size:30px;
+  color: #000000;
+}
+.number3{
+  font-weight:500;
+}
